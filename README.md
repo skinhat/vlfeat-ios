@@ -4,6 +4,6 @@ This is Vlfeat running on IOS and includes a simple demo with 'vl_solve_linear_s
 Vlfeat is a computer vision library at vlfeat.org.
 
 The code is a fork of an old version youngdueks ios-OpenCV-interface which happened to include vlfeat for iOS but has 
-since been removed.
+since been removed. Note, even though some of the folders have the word OpenCV in them, there are no OpenCV dependencies.
 
 
